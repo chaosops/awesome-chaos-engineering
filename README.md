@@ -8,6 +8,7 @@
 
 ## 精选内容
 - [知识普及](#知识普及)
+- [经典回顾](#经典回顾)
 - [实践案例](#实践案例)
 - [出版书籍](#出版书籍)
 - [混沌大佬](#混沌大佬)
@@ -27,6 +28,11 @@
 * [混沌工程实验的迭代特性](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651429642&idx=5&sn=4f3670c2111a83176b999dae235d5a14&chksm=8469c563b31e4c750b64dd6c7f0ef7808234ab0f0044fc329251df5f0231f3c757daad969982&scene=178&cur_album_id=1809498693138497536#rd)
 * [为什么基础服务不应该高可用](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430129&idx=3&sn=d2427e95a9c5a915c6cd1b68266565c1&chksm=8469c298b31e4b8e900aeb48e8943cbe7407e6760db3644bc8cfe58e3845ca1eb2f9d672465f&scene=178&cur_album_id=1799383814721355776#rd)
 * [在生产进行测试，你疯了吗](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430089&idx=2&sn=fc4854e0364a8fe8d9d04d8952c50ef4&chksm=8469c2a0b31e4bb696f1f0e9c4b98480117e667c4106e8ba93bfbf980d414b4d4c081c65f9ef&scene=178&cur_album_id=1799383814721355776#rd)
+* [Netflix猿猴军团(Simian Army)|IDCF](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430235&idx=4&sn=6a4999af9a31bd1b24b13d32b8d1b83a&chksm=8469c332b31e4a249a23d39cdacfc60761760eb984e41baeecb418d662458b0250cdc7a8eb81&scene=178&cur_album_id=1799383814721355776#rd)
+* [扫盲篇-混沌工程: 故意破坏的艺术](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430266&idx=3&sn=4fe6cc863b4f90fa9b8a88952cea5fef&chksm=8469c313b31e4a0553732f293fff9b5c27739e00f283405ccc4b9f96508c8459a35aa6002d7c&scene=178&cur_album_id=1799383814721355776#rd)
+
+## 经典回顾
+* [Netflix ChAP: 史上第一个混沌实验平台](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430266&idx=2&sn=f8eade2289a49a693d01e9d09cf08be1&chksm=8469c313b31e4a05c0966b1f7190dd0194bf8c0e254506e3becedec704b0d6682a5f6501b25a&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 实践案例
 * [当区域性故障来临，你的系统还能幸免于难吗？](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651429956&idx=4&sn=eb60a24ce2a001f87be8c9dbea16773b&chksm=8469c22db31e4b3b8e7752668c38b64aaefb34657e42b2869f44526f646ea5c2a5fa5ab6a0bf&scene=178&cur_album_id=1809498693138497536#rd)
@@ -47,6 +53,7 @@
 * [红帽在OpenShift上的混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430129&idx=2&sn=67193a51b186c30788a722fd5ff2c838&chksm=8469c298b31e4b8e1d71b7482e3de0c5f7191aec5205eda9a5fe72512de52bbca7e8d88ae473&scene=178&cur_album_id=1799383814721355776#rd)
 * [Loki: 数据流处理平台的混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430089&idx=3&sn=a88c506c32873c00edf6fa6d87854513&chksm=8469c2a0b31e4bb677aec744d9bc75073ae0d7c9882d1732c679110fd853def4c18c6714e526&scene=178&cur_album_id=1799383814721355776#rd)
 * [服务网格Linkerd的混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430089&idx=4&sn=e2221ac072be1d398e8d1c13bb66bb27&chksm=8469c2a0b31e4bb6bc63490e5a5af15a5eec28d26f428729131df8467a7c24ca6b6fd69247ea&scene=178&cur_album_id=1799383814721355776#rd)
+* [混沌工程: 苏宁系统稳定性之道](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430235&idx=3&sn=a2fcafe9cbbbd25dcae3c861ea2c860d&chksm=8469c332b31e4a24669434801b3dcb23b77ba19d05d18976ca5511bd040555b2c33e59d178ca&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 出版书籍
 * 《[混沌工程实战](https://book.douban.com/subject/35141777/)》
@@ -56,6 +63,8 @@
 * [你认识这个混沌工程大佬吗 - Adrian Cockcraft](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430187&idx=2&sn=9336a315b48c9a73e6a866c40facab1e&chksm=8469c342b31e4a54f7fee753fa52affe2c8bf95de90d5f66e9fb815a892660346b83a536224f&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 混沌日报
+* [混沌日报-2021年04月13日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430266&idx=1&sn=8b26ff195e07555e6a303f1955f3c792&chksm=8469c313b31e4a05ae56239467fba0612cd726359f3a0506fa8695580481161564635cc8143f&scene=178&cur_album_id=1799383814721355776#rd)
+* [混沌日报-2021年04月12日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430235&idx=1&sn=90ba8e1ff197e95d6805d9e879142030&chksm=8469c332b31e4a2408f95e5036d2ad19446a6f74beca7a0c96800357886f3e0946a74f889466&scene=178&cur_album_id=1799383814721355776#rd)
 * [混沌日报-2021年04月11日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430187&idx=1&sn=12df33c6aa1ef796e4dcba67d4b44ff9&chksm=8469c342b31e4a5440e0aee9560728b2ff16736977dc6bc21f20334ccb8e071bc79876cf8735&scene=178&cur_album_id=1803953058595323905#rd)
 * [混沌日报-2021年04月10日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430129&idx=1&sn=ee02a7d46d6bfff95ce0ca2e01c7f2dc&chksm=8469c298b31e4b8eacfacb81735f43a893f3c55fd1f2a0cfb98727f33831380116e73ad79a49&scene=178&cur_album_id=1803953058595323905#rd)
 * [混沌日报-2021年04月09日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430089&idx=1&sn=3ce12f9fbc2dc858af454699f1692016&chksm=8469c2a0b31e4bb61c2c04738acba761369b14278290a8e0065b0352e114f84e04d2724b5879&scene=178&cur_album_id=1803953058595323905#rd)
