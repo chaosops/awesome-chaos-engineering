@@ -63,6 +63,10 @@
 * [你认识这个混沌工程大佬吗 - Adrian Cockcraft](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430187&idx=2&sn=9336a315b48c9a73e6a866c40facab1e&chksm=8469c342b31e4a54f7fee753fa52affe2c8bf95de90d5f66e9fb815a892660346b83a536224f&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 混沌日报
+* [混沌日报-2021年04月17日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430462&idx=2&sn=735340f17f2b2d4163bae0414693c97f&chksm=8469c057b31e4941fb61b41a1fa73810b8d4c39e6bc91537b66525e50f3c43b2d2cabd76a41c&scene=178&cur_album_id=1803953058595323905#rd)
+* [混沌日报-2021年04月16日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430398&idx=1&sn=397cfacbad30385d189a552b55bf9091&chksm=8469c397b31e4a811bcaaedb00c2bd92ead9590c82cebdd39164c57f1306d1d2a5edd79bc768&scene=178&cur_album_id=1803953058595323905#rd)
+* [混沌日报-2021年04月15日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430358&idx=1&sn=5354239606a032a47bbb0c7c7f987b1d&chksm=8469c3bfb31e4aa9bba8adfd589e0c1d9065336d114b555ca41f5e057e49bd450c41696e28d8&scene=178&cur_album_id=1803953058595323905#rd)
+* [混沌日报-2021年04月14日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430333&idx=1&sn=bfcebf86b7a69d98887ef5fcf4cc508c&chksm=8469c3d4b31e4ac2cc8baf637f767cd69551e1e4dbe02da57c8dd6252edc44807e248e8b95fb&scene=178&cur_album_id=1803953058595323905#rd)
 * [混沌日报-2021年04月13日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430266&idx=1&sn=8b26ff195e07555e6a303f1955f3c792&chksm=8469c313b31e4a05ae56239467fba0612cd726359f3a0506fa8695580481161564635cc8143f&scene=178&cur_album_id=1799383814721355776#rd)
 * [混沌日报-2021年04月12日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430235&idx=1&sn=90ba8e1ff197e95d6805d9e879142030&chksm=8469c332b31e4a2408f95e5036d2ad19446a6f74beca7a0c96800357886f3e0946a74f889466&scene=178&cur_album_id=1799383814721355776#rd)
 * [混沌日报-2021年04月11日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430187&idx=1&sn=12df33c6aa1ef796e4dcba67d4b44ff9&chksm=8469c342b31e4a5440e0aee9560728b2ff16736977dc6bc21f20334ccb8e071bc79876cf8735&scene=178&cur_album_id=1803953058595323905#rd)
