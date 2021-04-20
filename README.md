@@ -32,6 +32,7 @@
 * [扫盲篇-混沌工程: 故意破坏的艺术](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430266&idx=3&sn=4fe6cc863b4f90fa9b8a88952cea5fef&chksm=8469c313b31e4a0553732f293fff9b5c27739e00f283405ccc4b9f96508c8459a35aa6002d7c&scene=178&cur_album_id=1799383814721355776#rd)
 * [《混沌工程-系统韧性实践》序言和免费电子书下载](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430358&idx=2&sn=651637b4859fa450660b33e00e24e707&chksm=8469c3bfb31e4aa9c005b1b11e28162385a0f295efb6abe4cf65272d9db1ea99c2ca1581f430&scene=178&cur_album_id=1799383814721355776#rd)
 * [扫盲贴: 什么是探索性测试](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430398&idx=3&sn=6ac38a119d0f4f88ae1c660dc2f81bf5&chksm=8469c397b31e4a81901eda91f48a2dc1925891b64e30fb7998f6fa4f4a4ba4a2882489472155&scene=178&cur_album_id=1799383814721355776#rd)
+* [混沌工程=可观测性+探索性测试？](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430492&idx=2&sn=34d93aad1e2ff3733fa9698872c11d76&chksm=8469c035b31e4923d18ba84ff6a9af94f2d2aaf29d7707faf6f1e310828494e5ffa8ab285281&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 经典回顾
 * [Netflix ChAP: 史上第一个混沌实验平台](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430266&idx=2&sn=f8eade2289a49a693d01e9d09cf08be1&chksm=8469c313b31e4a05c0966b1f7190dd0194bf8c0e254506e3becedec704b0d6682a5f6501b25a&scene=178&cur_album_id=1799383814721355776#rd)
@@ -61,6 +62,7 @@
 * [携程在反脆弱方向的混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430398&idx=2&sn=e764739e1c699623e91bb6e65205ca49&chksm=8469c397b31e4a8106d8c56db17a5d777adb2bd6506a326692b430075a9299350c22630360c9&scene=178&cur_album_id=1799383814721355776#rd)
 * [酷家乐: 混沌工程在创业公司的实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430462&idx=3&sn=1a2c6d429c55c1582ed9fcaaf42983a7&chksm=8469c057b31e49411aacadd79068c469c39bc789b520159ffe4fab0d9eff788063366bb7b791&scene=178&cur_album_id=1799383814721355776#rd)
 * [史上增长最快的SaaS公司Slack的混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430462&idx=1&sn=5b0444c684b36ed0f73088682b2d18de&chksm=8469c057b31e4941550f8e29ba7b9a509bb1fde901b09977eec98d4c5b832232f577fa4cb078&scene=178&cur_album_id=1799383814721355776#rd)
+* [混沌工程缓存实战系列 - Redis](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430511&idx=2&sn=47a2e3c0db54b6741daec2c693e0f39f&chksm=8469c006b31e491081b09c1245cab98b90e7bdc27417b1ac6cde6df9f978bd864d6f2d4f8ba4&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 出版书籍
 * 《[混沌工程实战](https://book.douban.com/subject/35141777/)》
@@ -71,6 +73,8 @@
 * [你认识这个混沌工程大佬吗 - Jesse Robbins](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430333&idx=2&sn=dfd9d6e5ede5763face10687e268d7a3&chksm=8469c3d4b31e4ac285adb710bd69db01a073277f9eb624ccdeafef39ef52ee8cd398fc0a61f7&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 混沌日报
+* [混沌日报-2021年04月19日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430511&idx=1&sn=6e28933632751b61f02a4cf18ea9de2d&chksm=8469c006b31e4910af830b3364a79a203ddc3630adb54b38ca17fd379d4c36f2819811588368&scene=178&cur_album_id=1799383814721355776#rd)
+* [混沌日报-2021年04月18日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430492&idx=1&sn=a6107d8aca297b168c58d52f4ab23973&chksm=8469c035b31e49230982cf42facf1fe158cbee379d367a39ff9f7b9f2c25d04065914f783c58&scene=178&cur_album_id=1803953058595323905#rd)
 * [混沌日报-2021年04月17日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430462&idx=2&sn=735340f17f2b2d4163bae0414693c97f&chksm=8469c057b31e4941fb61b41a1fa73810b8d4c39e6bc91537b66525e50f3c43b2d2cabd76a41c&scene=178&cur_album_id=1803953058595323905#rd)
 * [混沌日报-2021年04月16日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430398&idx=1&sn=397cfacbad30385d189a552b55bf9091&chksm=8469c397b31e4a811bcaaedb00c2bd92ead9590c82cebdd39164c57f1306d1d2a5edd79bc768&scene=178&cur_album_id=1803953058595323905#rd)
 * [混沌日报-2021年04月15日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430358&idx=1&sn=5354239606a032a47bbb0c7c7f987b1d&chksm=8469c3bfb31e4aa9bba8adfd589e0c1d9065336d114b555ca41f5e057e49bd450c41696e28d8&scene=178&cur_album_id=1803953058595323905#rd)
