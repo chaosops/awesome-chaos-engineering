@@ -36,6 +36,8 @@
 
 ## 经典回顾
 * [Netflix ChAP: 史上第一个混沌实验平台](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430266&idx=2&sn=f8eade2289a49a693d01e9d09cf08be1&chksm=8469c313b31e4a05c0966b1f7190dd0194bf8c0e254506e3becedec704b0d6682a5f6501b25a&scene=178&cur_album_id=1799383814721355776#rd)
+* [Netflix教科书: 进取到令人毛骨悚然](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430530&idx=3&sn=584da7e0b9ee7e60e0c64f5a6e8a6278&chksm=8469c0ebb31e49fda3735578e79268e7db1b98ce3f8abf7bcb51a7b9496d1df33e955b2cab10&scene=178&cur_album_id=1799383814721355776#rd)
+* [Netflix教科书: 反脆弱混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430530&idx=2&sn=808300c0b5ddd6a3da413d4bfd246b18&chksm=8469c0ebb31e49fdba70030bd4fe75bc9bcbf4b1e3c85c0d5240a4e61cafa6b229a05cd00962&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 实践案例
 * [当区域性故障来临，你的系统还能幸免于难吗？](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651429956&idx=4&sn=eb60a24ce2a001f87be8c9dbea16773b&chksm=8469c22db31e4b3b8e7752668c38b64aaefb34657e42b2869f44526f646ea5c2a5fa5ab6a0bf&scene=178&cur_album_id=1809498693138497536#rd)
@@ -48,7 +50,6 @@
 * [使用AWS FIS服务实施混沌工程](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651429688&idx=3&sn=e071a66a62e3cb43910004dc15308148&chksm=8469c551b31e4c475ea852e57e6eb2bd5be2b90e083ba1b1e325caa838e92cc71380fdd9c6b5&scene=178&cur_album_id=1809493898143055874#rd)
 * [服务网格Linkerd的混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430089&idx=4&sn=e2221ac072be1d398e8d1c13bb66bb27&chksm=8469c2a0b31e4bb6bc63490e5a5af15a5eec28d26f428729131df8467a7c24ca6b6fd69247ea&scene=178&cur_album_id=1809493898143055874#rd)
 * [LitmusChaos: K8s上的混沌工程框架](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651429956&idx=2&sn=b192122d170e21579beb84ea0b5d3cb9&chksm=8469c22db31e4b3b1178fc59af29fcdf2db26aa1709f585d07c151e80b7220c066cb8f203f34&scene=178&cur_album_id=1809493898143055874#rd)
-* [Loki: 数据流处理平台的混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430089&idx=3&sn=a88c506c32873c00edf6fa6d87854513&chksm=8469c2a0b31e4bb677aec744d9bc75073ae0d7c9882d1732c679110fd853def4c18c6714e526&scene=178&cur_album_id=1809493898143055874#rd)
 * [云原生混沌工程 - 增强 K8s 应用容错性](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430187&idx=5&sn=fd2e8e408a9e7bdc79f828437ff1571d&chksm=8469c342b31e4a545f8c4eb23390b2eebcb6848639647d8d48ee41dac1dedb2a9bade7fdc3cf&scene=178&cur_album_id=1799383814721355776#rd)
 * [滴滴稳定性系列1: 如何做好系统稳定性建设](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430089&idx=5&sn=827c2ee868272db2423565ae3e1f3dbf&chksm=8469c2a0b31e4bb627c7dc3ca47ac6cc8c36e66ee14814bc5975df9b5f7b0df190dd52fb8fdf&scene=178&cur_album_id=1809493898143055874#rd)
 * [滴滴稳定性系列2: 如何做线上全链路压测](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430129&idx=4&sn=15d6ce6b2ad0a81c86a925ee82b7d210&chksm=8469c298b31e4b8e2482ec710c2a686a36d8f91744e558615e3e76b890a538e2acaa7e7f2904&scene=178&cur_album_id=1799383814721355776#rd)
@@ -63,6 +64,7 @@
 * [酷家乐: 混沌工程在创业公司的实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430462&idx=3&sn=1a2c6d429c55c1582ed9fcaaf42983a7&chksm=8469c057b31e49411aacadd79068c469c39bc789b520159ffe4fab0d9eff788063366bb7b791&scene=178&cur_album_id=1799383814721355776#rd)
 * [史上增长最快的SaaS公司Slack的混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430462&idx=1&sn=5b0444c684b36ed0f73088682b2d18de&chksm=8469c057b31e4941550f8e29ba7b9a509bb1fde901b09977eec98d4c5b832232f577fa4cb078&scene=178&cur_album_id=1799383814721355776#rd)
 * [混沌工程缓存实战系列 - Redis](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430511&idx=2&sn=47a2e3c0db54b6741daec2c693e0f39f&chksm=8469c006b31e491081b09c1245cab98b90e7bdc27417b1ac6cde6df9f978bd864d6f2d4f8ba4&scene=178&cur_album_id=1799383814721355776#rd)
+* [Gremlin: 拥抱失败的混沌工程实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430553&idx=2&sn=79032c1814556ec8593c5b08b301308e&chksm=8469c0f0b31e49e62de331ec5cd8ee37758ae38334ecdf84f8a9638fedcea0962658db99d35f&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 出版书籍
 * 《[混沌工程实战](https://book.douban.com/subject/35141777/)》
@@ -73,6 +75,9 @@
 * [你认识这个混沌工程大佬吗 - Jesse Robbins](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430333&idx=2&sn=dfd9d6e5ede5763face10687e268d7a3&chksm=8469c3d4b31e4ac285adb710bd69db01a073277f9eb624ccdeafef39ef52ee8cd398fc0a61f7&scene=178&cur_album_id=1799383814721355776#rd)
 
 ## 混沌日报
+* [混沌日报-2021年04月22日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430564&idx=1&sn=f29c38f044ba2221395f94bde9689a9d&chksm=8469c0cdb31e49db72cb32ffb579b8003193816a111f8c532876d384060a35325e222ee52039&scene=178&cur_album_id=1799383814721355776#rd)
+* [混沌日报-2021年04月21日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430553&idx=1&sn=f6aae302b09c23817af079d9481a1b5a&chksm=8469c0f0b31e49e697aec5c303add6db4d3c6061ec978c44ab80a5dcb1c69f87fa558749ed46&scene=178&cur_album_id=1799383814721355776#rd)
+* [混沌日报-2021年04月20日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430530&idx=1&sn=1887ef0fc72ea5c5f16e6e5c4a4891a6&chksm=8469c0ebb31e49fd967ad75afbf3e99b75b11caeaff08f1f45d0793f090e1a1a9d6682375cc4&scene=178&cur_album_id=1799383814721355776#rd)
 * [混沌日报-2021年04月19日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430511&idx=1&sn=6e28933632751b61f02a4cf18ea9de2d&chksm=8469c006b31e4910af830b3364a79a203ddc3630adb54b38ca17fd379d4c36f2819811588368&scene=178&cur_album_id=1799383814721355776#rd)
 * [混沌日报-2021年04月18日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430492&idx=1&sn=a6107d8aca297b168c58d52f4ab23973&chksm=8469c035b31e49230982cf42facf1fe158cbee379d367a39ff9f7b9f2c25d04065914f783c58&scene=178&cur_album_id=1803953058595323905#rd)
 * [混沌日报-2021年04月17日](https://mp.weixin.qq.com/s?__biz=MzA4MTQzOTQ5NA==&mid=2651430462&idx=2&sn=735340f17f2b2d4163bae0414693c97f&chksm=8469c057b31e4941fb61b41a1fa73810b8d4c39e6bc91537b66525e50f3c43b2d2cabd76a41c&scene=178&cur_album_id=1803953058595323905#rd)
